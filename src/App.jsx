@@ -4,6 +4,7 @@ import viteLogo from "/vite.svg";
 import React from "react";
 import { Suspense } from "react";
 import { Route, Routes } from "react-router-dom";
+import Products from "./pages/products";
 // import Dashboard from "./pages/Dashboard";
 // import Orders from "./pages/orders";
 // import Customers from "./pages/customers";
@@ -35,6 +36,7 @@ const Customers = React.lazy(() => import("./pages/customers"));
 const NotFoundPage = React.lazy(() => import("./pages/notfound"));
 const Loading = React.lazy(() => import("./components/loading"));
 const User = React.lazy(() => import("./pages/user"));
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"));
 
 //Quiz
 const GuestLayout = React.lazy(() => import("./layouts/guestlayouts"));
@@ -62,6 +64,8 @@ function App() {
           <Route path="/addCustomer" element={<AddCustomer />} />
           <Route path="/addOrders" element={<AddOrder />} />
           <Route path="/user" element={<User />} />
+          <Route path="products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetail />} />
         </Route>
 
         <Route element={<GuestLayout />}>
