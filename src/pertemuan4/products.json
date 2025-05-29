@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1,
+        "title": "Apple iPhone 13",
+        "description": "The latest iPhone featuring A15 Bionic chip and Dual Camera system.",
+        "category": "technology",
+        "price": 799.00,
+        "discountPercentage": 10,
+        "rating": 4.9,
+        "stock": 30,
+        "tags": ["smartphone", "Apple"],
+        "brand": "Apple",
+        "dimensions": {"width": 71.5, "height": 146.7, "depth": 7.65}
+    },
+    {
+        "id": 2,
+        "title": "Samsung Galaxy S21",
+        "description": "A powerful smartphone with a sleek design and impressive camera features.",
+        "category": "technology",
+        "price": 699.99,
+        "discountPercentage": 5,
+        "rating": 4.7,
+        "stock": 40,
+        "tags": ["smartphone", "Samsung"],
+        "brand": "Samsung",
+        "dimensions": {"width": 71.2, "height": 151.7, "depth": 7.9}
+    },
+    {
+        "id": 3,
+        "title": "Sony WH-1000XM4",
+        "description": "Noise-canceling wireless headphones with exceptional sound quality.",
+        "category": "technology",
+        "price": 349.99,
+        "discountPercentage": 15,
+        "rating": 4.8,
+        "stock": 25,
+        "tags": ["headphones", "Sony"],
+        "brand": "Sony",
+        "dimensions": {"width": 25.3, "height": 23.5, "depth": 9.7}
+    },
+    {
+        "id": 4,
+        "title": "Apple MacBook Air M1",
+        "description": "A lightweight laptop powered by the Apple M1 chip for exceptional performance.",
+        "category": "technology",
+        "price": 999.00,
+        "discountPercentage": 12,
+        "rating": 4.9,
+        "stock": 15,
+        "tags": ["laptop", "Apple"],
+        "brand": "Apple",
+        "dimensions": {"width": 30.41, "height": 21.24, "depth": 0.41}
+    },
+    {
+        "id": 5,
+        "title": "Dell XPS 13",
+        "description": "A compact and portable laptop with a stunning InfinityEdge display.",
+        "category": "technology",
+        "price": 949.99,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 20,
+        "tags": ["laptop", "Dell"],
+        "brand": "Dell",
+        "dimensions": {"width": 30.2, "height": 19.6, "depth": 1.48}
+    },
+    {
+        "id": 6,
+        "title": "Amazon Echo Dot (4th Gen)",
+        "description": "A smart speaker with Alexa that can control your smart home.",
+        "category": "technology",
+        "price": 49.99,
+        "discountPercentage": 20,
+        "rating": 4.6,
+        "stock": 100,
+        "tags": ["smart speaker", "Amazon"],
+        "brand": "Amazon",
+        "dimensions": {"width": 10.7, "height": 10.7, "depth": 8.1}
+    },
+    {
+        "id": 7,
+        "title": "Microsoft Surface Pro 7",
+        "description": "A versatile 2-in-1 laptop with a touchscreen display.",
+        "category": "technology",
+        "price": 749.99,
+        "discountPercentage": 15,
+        "rating": 4.7,
+        "stock": 10,
+        "tags": ["laptop", "Microsoft"],
+        "brand": "Microsoft",
+        "dimensions": {"width": 29.2, "height": 20.1, "depth": 0.85}
+    },
+    {
+        "id": 8,
+        "title": "ASUS ROG Strix G15",
+        "description": "A gaming laptop with powerful graphics and a high refresh rate.",
+        "category": "technology",
+        "price": 1299.99,
+        "discountPercentage": 5,
+        "rating": 4.8,
+        "stock": 8,
+        "tags": ["gaming laptop", "ASUS"],
+        "brand": "ASUS",
+        "dimensions": {"width": 36, "height": 26, "depth": 2.5}
+    },
+    {
+        "id": 9,
+        "title": "Samsung Galaxy Tab S7",
+        "description": "A tablet that’s powerful enough to replace your laptop, with an epic display.",
+        "category": "technology",
+        "price": 649.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 30,
+        "tags": ["tablet", "Samsung"],
+        "brand": "Samsung",
+        "dimensions": {"width": 26.3, "height": 16.5, "depth": 0.7}
+    },
+    {
+        "id": 10,
+        "title": "Fitbit Charge 5",
+        "description": "A health and fitness tracker with built-in GPS and heart rate monitoring.",
+        "category": "technology",
+        "price": 179.95,
+        "discountPercentage": 5,
+        "rating": 4.7,
+        "stock": 50,
+        "tags": ["fitness", "Fitbit"],
+        "brand": "Fitbit",
+        "dimensions": {"width": 25, "height": 12, "depth": 5}
+    },
+    {
+        "id": 11,
+        "title": "Logitech MX Master 3",
+        "description": "An advanced wireless mouse designed for power users.",
+        "category": "technology",
+        "price": 99.99,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 20,
+        "tags": ["mouse", "Logitech"],
+        "brand": "Logitech",
+        "dimensions": {"width": 8.6, "height": 12.0, "depth": 4.5}
+    },
+    {
+        "id": 12,
+        "title": "Razer BlackWidow V3",
+        "description": "A mechanical gaming keyboard with customizable RGB lighting.",
+        "category": "technology",
+        "price": 169.99,
+        "discountPercentage": 5,
+        "rating": 4.7,
+        "stock": 15,
+        "tags": ["keyboard", "Razer"],
+        "brand": "Razer",
+        "dimensions": {"width": 44, "height": 14, "depth": 3.7}
+    },
+    {
+        "id": 13,
+        "title": "Apple Watch Series 7",
+        "description": "The most durable Apple Watch with advanced health features.",
+        "category": "technology",
+        "price": 399.00,
+        "discountPercentage": 8,
+        "rating": 4.8,
+        "stock": 25,
+        "tags": ["smartwatch", "Apple"],
+        "brand": "Apple",
+        "dimensions": {"width": 38, "height": 45, "depth": 10.7}
+    },
+    {
+        "id": 14,
+        "title": "NVIDIA GeForce RTX 3080",
+        "description": "A high-performance graphics card for the ultimate gaming experience.",
+        "category": "technology",
+        "price": 699.99,
+        "discountPercentage": 10,
+        "rating": 4.9,
+        "stock": 5,
+        "tags": ["graphics card", "NVIDIA"],
+        "brand": "NVIDIA",
+        "dimensions": {"width": 28, "height": 12, "depth": 5}
+    },
+    {
+        "id": 15,
+        "title": "TP-Link AC1750 Smart WiFi Router",
+        "description": "A dual-band router for fast, reliable WiFi with extensive coverage.",
+        "category": "technology",
+        "price": 79.99,
+        "discountPercentage": 5,
+        "rating": 4.5,
+        "stock": 50,
+        "tags": ["router", "TP-Link"],
+        "brand": "TP-Link",
+        "dimensions": {"width": 20, "height": 5, "depth": 10}
+    },
+    {
+        "id": 16,
+        "title": "Oculus Quest 2",
+        "description": "A standalone virtual reality headset for immersive experiences.",
+        "category": "technology",
+        "price": 299.99,
+        "discountPercentage": 10,
+        "rating": 4.6,
+        "stock": 20,
+        "tags": ["VR headset", "Oculus"],
+        "brand": "Oculus",
+        "dimensions": {"width": 19, "height": 21, "depth": 10}
+    },
+    {
+        "id": 17,
+        "title": "Bose QuietComfort 45",
+        "description": "Wireless noise-canceling headphones with premium sound quality.",
+        "category": "technology",
+        "price": 329.99,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 25,
+        "tags": [
+            "headphones",
+            "Bose"
+        ],
+        "brand": "Bose",
+        "dimensions": {
+            "width": 20,
+            "height": 25,
+            "depth": 10
+        }
+    },
+    {
+        "id": 18,
+        "title": "Sony PlayStation 5",
+        "description": "Next-gen gaming console with ultra-high-speed SSD and immersive graphics.",
+        "category": "technology",
+        "price": 499.99,
+        "discountPercentage": 5,
+        "rating": 4.9,
+        "stock": 10,
+        "tags": [
+            "gaming console",
+            "Sony"
+        ],
+        "brand": "Sony",
+        "dimensions": {
+            "width": 39,
+            "height": 10.4,
+            "depth": 26
+        }
+    },
+    {
+        "id": 19,
+        "title": "JBL Flip 6",
+        "description": "Portable Bluetooth speaker with deep bass and waterproof design.",
+        "category": "technology",
+        "price": 129.95,
+        "discountPercentage": 8,
+        "rating": 4.7,
+        "stock": 30,
+        "tags": [
+            "Bluetooth speaker",
+            "JBL"
+        ],
+        "brand": "JBL",
+        "dimensions": {
+            "width": 17.8,
+            "height": 7.2,
+            "depth": 6.8
+        }
+    },
+    {
+        "id": 20,
+        "title": "Bose QuietComfort 45",
+        "description": "Wireless noise-canceling headphones with high-fidelity audio and long battery life.",
+        "category": "technology",
+        "price": 329.99,
+        "discountPercentage": 10,
+        "rating": 4.8,
+        "stock": 18,
+        "tags": ["headphones", "Bose"],
+        "brand": "Bose",
+        "dimensions": {
+            "width": 18.4,
+            "height": 15.2,
+            "depth": 7.6
+        }
+    }
+]
